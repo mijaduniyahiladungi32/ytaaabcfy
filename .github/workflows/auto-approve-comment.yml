@@ -1,5 +1,6 @@
 name: Auto Approve/Decline via Comment & Append to JSON
 on:
+  workflow_dispatch:        # ✅ Manual trigger
   issues:
     types: [opened, labeled]
   issue_comment:
@@ -54,24 +55,22 @@ jobs:
 
       # 4. Fetch approved issue data
       - name: Fetch approved issue data
-        if: github.event.label.name == 'approved'
+        if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         env:
           REPO_A: "username/repo-a"
           TOKEN: ${{ secrets.REPO_A_TOKEN }}
         run: |
-          ISSUE_NUMBER=${{ github.event.issue.number }}
+          ISSUE_NUMBER=${{ github.event.issue.number || 'MANUAL' }}
           curl -s -H "Authorization: token $TOKEN" \
             "https://api.github.com/repos/$REPO_A/issues/$ISSUE_NUMBER" \
             > approved_issue.json
 
       # 5. Append to channels.json
       - name: Append to channels.json
-        if: github.event.label.name == 'approved'
+        if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         run: |
           DEST_FILE="dest/channels.json"
-
           git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/other-account/other-repo.git dest
-
           if [ ! -f "$DEST_FILE" ]; then echo "[]" > "$DEST_FILE"; fi
 
           NEW_CHANNEL=$(jq '[{
@@ -86,11 +85,11 @@ jobs:
 
       # 6. Commit & Push
       - name: Commit & Push
-        if: github.event.label.name == 'approved'
+        if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         run: |
           cd dest
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add channels.json
-          git commit -m "✅ Added approved channel #${{ github.event.issue.number }}"
+          git commit -m "✅ Updated channels.json"
           git push
