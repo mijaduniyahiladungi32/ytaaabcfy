@@ -1,0 +1,96 @@
+name: Auto Approve/Decline via Comment & Append to JSON
+on:
+  issues:
+    types: [opened, labeled]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  assign-and-handle:
+    runs-on: ubuntu-latest
+    steps:
+
+      # 1. Checkout Repo B
+      - name: Checkout destination repo
+        uses: actions/checkout@v4
+
+      # 2. Auto assign issue on opened
+      - name: Auto assign issue
+        if: github.event_name == 'issues' && github.event.action == 'opened'
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          curl -s -X POST \
+            -H "Authorization: token ${{ secrets.REPO_A_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/assignees \
+            -d '{"assignees":["AdminUsername"]}'   # Change AdminUsername
+
+      # 3. Add label from comment shortcut
+      - name: Apply label from comment
+        if: github.event_name == 'issue_comment' && github.event.comment.user.login == 'AdminUsername'
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          COMMENT_BODY="${{ github.event.comment.body }}"
+
+          if [[ "$COMMENT_BODY" == *"[approve]"* ]]; then
+            curl -s -X POST \
+              -H "Authorization: token ${{ secrets.REPO_A_TOKEN }}" \
+              -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/labels \
+              -d '{"labels":["approved"]}'
+          fi
+
+          if [[ "$COMMENT_BODY" == *"[decline]"* ]]; then
+            curl -s -X POST \
+              -H "Authorization: token ${{ secrets.REPO_A_TOKEN }}" \
+              -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/labels \
+              -d '{"labels":["declined"]}'
+          fi
+
+      # 4. Fetch approved issue data
+      - name: Fetch approved issue data
+        if: github.event.label.name == 'approved'
+        env:
+          REPO_A: "username/repo-a"
+          TOKEN: ${{ secrets.REPO_A_TOKEN }}
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          curl -s -H "Authorization: token $TOKEN" \
+            "https://api.github.com/repos/$REPO_A/issues/$ISSUE_NUMBER" \
+            > approved_issue.json
+
+      # 5. Append to channels.json
+      - name: Append to channels.json
+        if: github.event.label.name == 'approved'
+        run: |
+          DEST_FILE="dest/channels.json"
+
+          git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/other-account/other-repo.git dest
+
+          if [ ! -f "$DEST_FILE" ]; then echo "[]" > "$DEST_FILE"; fi
+
+          NEW_CHANNEL=$(jq '[{
+            name: (.body | match("Channel Name: (.*)"; "m").captures[0].string),
+            category: (.body | match("Category: (.*)"; "m").captures[0].string),
+            country: (.body | match("Country: (.*)"; "m").captures[0].string),
+            code: (.body | match("Country Short Code: (.*)"; "m").captures[0].string),
+            info: (.body | match("Additional Information: (.*)"; "m").captures[0].string)
+          }]' approved_issue.json)
+
+          jq ". + $NEW_CHANNEL" "$DEST_FILE" > temp.json && mv temp.json "$DEST_FILE"
+
+      # 6. Commit & Push
+      - name: Commit & Push
+        if: github.event.label.name == 'approved'
+        run: |
+          cd dest
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels.json
+          git commit -m "✅ Added approved channel #${{ github.event.issue.number }}"
+          git push
