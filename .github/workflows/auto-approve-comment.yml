@@ -70,7 +70,7 @@ jobs:
         if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         run: |
           DEST_FILE="dest/channels.json"
-          git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/other-account/other-repo.git dest
+          git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/IPTVFlixBD/YT-PL.git dest
           if [ ! -f "$DEST_FILE" ]; then echo "[]" > "$DEST_FILE"; fi
 
           NEW_CHANNEL=$(jq '[{
