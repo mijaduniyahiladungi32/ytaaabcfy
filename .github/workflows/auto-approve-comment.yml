@@ -1,6 +1,7 @@
 name: Auto Approve/Decline via Comment & Append to JSON
+
 on:
-  workflow_dispatch:        # ✅ Manual trigger
+  workflow_dispatch:        # Manual trigger
   issues:
     types: [opened, labeled]
   issue_comment:
@@ -30,7 +31,7 @@ jobs:
             https://api.github.com/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/assignees \
             -d '{"assignees":["AdminUsername"]}'   # Change AdminUsername
 
-      # 3. Add label from comment shortcut
+      # 3. Apply label from comment shortcut
       - name: Apply label from comment
         if: github.event_name == 'issue_comment' && github.event.comment.user.login == 'AdminUsername'
         run: |
@@ -65,20 +66,20 @@ jobs:
             "https://api.github.com/repos/$REPO_A/issues/$ISSUE_NUMBER" \
             > approved_issue.json
 
-      # 5. Append to channels.json
+      # 5. Append to channels.json (null-safe)
       - name: Append to channels.json
         if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         run: |
           DEST_FILE="dest/channels.json"
-          git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/IPTVFlixBD/YT-PL.git dest
+          git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/other-account/other-repo.git dest
           if [ ! -f "$DEST_FILE" ]; then echo "[]" > "$DEST_FILE"; fi
 
           NEW_CHANNEL=$(jq '[{
-            name: (.body | match("Channel Name: (.*)"; "m").captures[0].string),
-            category: (.body | match("Category: (.*)"; "m").captures[0].string),
-            country: (.body | match("Country: (.*)"; "m").captures[0].string),
-            code: (.body | match("Country Short Code: (.*)"; "m").captures[0].string),
-            info: (.body | match("Additional Information: (.*)"; "m").captures[0].string)
+            name: (.body // "" | match("Channel Name: (.*)"; "m")?.captures[0].string // ""),
+            category: (.body // "" | match("Category: (.*)"; "m")?.captures[0].string // ""),
+            country: (.body // "" | match("Country: (.*)"; "m")?.captures[0].string // ""),
+            code: (.body // "" | match("Country Short Code: (.*)"; "m")?.captures[0].string // ""),
+            info: (.body // "" | match("Additional Information: (.*)"; "m")?.captures[0].string // "")
           }]' approved_issue.json)
 
           jq ". + $NEW_CHANNEL" "$DEST_FILE" > temp.json && mv temp.json "$DEST_FILE"
