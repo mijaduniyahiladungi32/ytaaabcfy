@@ -76,11 +76,11 @@ jobs:
 
           NEW_CHANNEL=$(jq -n --slurpfile issue approved_issue.json \
             '$issue[0] as $i | [ { 
-              name: ($i.body|split("\n")|map(select(startswith("Channel Name: ")))|.[0]?|sub("Channel Name: "; "") // ""),
-              category: ($i.body|split("\n")|map(select(startswith("Category: ")))|.[0]?|sub("Category: "; "") // ""),
-              country: ($i.body|split("\n")|map(select(startswith("Country: ")))|.[0]?|sub("Country: "; "") // ""),
-              code: ($i.body|split("\n")|map(select(startswith("Country Short Code: ")))|.[0]?|sub("Country Short Code: "; "") // ""),
-              info: ($i.body|split("\n")|map(select(startswith("Additional Information: ")))|.[0]?|sub("Additional Information: "; "") // "")
+              name: (($i.body // "") | split("\n") | map(select(startswith("Channel Name: "))) | .[0]? | sub("Channel Name: "; "") // ""),
+              category: (($i.body // "") | split("\n") | map(select(startswith("Category: "))) | .[0]? | sub("Category: "; "") // ""),
+              country: (($i.body // "") | split("\n") | map(select(startswith("Country: "))) | .[0]? | sub("Country: "; "") // ""),
+              code: (($i.body // "") | split("\n") | map(select(startswith("Country Short Code: "))) | .[0]? | sub("Country Short Code: "; "") // ""),
+              info: (($i.body // "") | split("\n") | map(select(startswith("Additional Information: "))) | .[0]? | sub("Additional Information: "; "") // "")
             } ]')
 
           jq ". + $NEW_CHANNEL" "$DEST_FILE" > temp.json && mv temp.json "$DEST_FILE"
