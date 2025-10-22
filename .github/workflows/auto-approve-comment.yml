@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # 1. Checkout Repo B
+      # 1. Checkout Repo B (destination repo for JSON push)
       - name: Checkout destination repo
         uses: actions/checkout@v4
 
@@ -66,7 +66,7 @@ jobs:
             "https://api.github.com/repos/$REPO_A/issues/$ISSUE_NUMBER" \
             > approved_issue.json
 
-      # 5. Append to channels.json (null-safe)
+      # 5. Append to channels.json (null-safe, Unix-safe)
       - name: Append to channels.json
         if: github.event.label.name == 'approved' || github.event_name == 'workflow_dispatch'
         run: |
@@ -74,13 +74,16 @@ jobs:
           git clone https://x-access-token:${{ secrets.OTHER_REPO_TOKEN }}@github.com/IPTVFlixBD/YT-PL.git dest
           if [ ! -f "$DEST_FILE" ]; then echo "[]" > "$DEST_FILE"; fi
 
-          NEW_CHANNEL=$(jq '[{
-            name: (.body // "" | match("Channel Name: (.*)"; "m")?.captures[0].string // ""),
-            category: (.body // "" | match("Category: (.*)"; "m")?.captures[0].string // ""),
-            country: (.body // "" | match("Country: (.*)"; "m")?.captures[0].string // ""),
-            code: (.body // "" | match("Country Short Code: (.*)"; "m")?.captures[0].string // ""),
-            info: (.body // "" | match("Additional Information: (.*)"; "m")?.captures[0].string // "")
-          }]' approved_issue.json)
+          NEW_CHANNEL=$(jq -n --slurpfile issue approved_issue.json '
+            $issue[0] as $i |
+            [{
+              name: ($i.body // "" | capture("Channel Name: (?<val>.*)"; "m")?.val // ""),
+              category: ($i.body // "" | capture("Category: (?<val>.*)"; "m")?.val // ""),
+              country: ($i.body // "" | capture("Country: (?<val>.*)"; "m")?.val // ""),
+              code: ($i.body // "" | capture("Country Short Code: (?<val>.*)"; "m")?.val // ""),
+              info: ($i.body // "" | capture("Additional Information: (?<val>.*)"; "m")?.val // "")
+            }]
+          ')
 
           jq ". + $NEW_CHANNEL" "$DEST_FILE" > temp.json && mv temp.json "$DEST_FILE"
 
