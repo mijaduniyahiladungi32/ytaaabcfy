@@ -2,7 +2,7 @@ name: Autox
 
 on:
   schedule:
-    - cron: '*/40 * * * *'  # Every 30 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
