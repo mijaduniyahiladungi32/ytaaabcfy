@@ -1,0 +1,53 @@
+name: Autox
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout this repository
+      uses: actions/checkout@v3
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install yt-dlp requests pytz playwright
+        playwright install chromium
+
+    - name: Create temporary folder
+      run: mkdir tmp_folder
+
+    - name: Unzip script
+      env:
+        FILE_API: ${{ secrets.FILE_APISCHS2 }}
+      run: |
+        unzip -o -P "$FILE_API" yxxxpp.zip -d tmp_folder
+
+    - name: Run playlist script
+      run: python3 tmp_folder/yxxxpp.py
+
+    - name: Cleanup temporary folder
+      if: always()
+      run: rm -rf tmp_folder
+
+    - name: Clone target repository
+      run: |
+        git clone https://x-access-token:${{ secrets.TARGET_TOKENCHS2 }}@${{ secrets.TARGET_URLTSCHD2 }} ${{ secrets.TARGET_NAMETSCHD2 }}
+
+    - name: Copy updated M3U files
+      run: |
+        cp tmp_folder/*.m3u ${{ secrets.TARGET_NAMETSCHD2 }}/
+
+    - name: Commit & push to target repository
+      run: |
+        cd ${{ secrets.TARGET_NAMETSCHD2 }}
+        git config user.name "${{ secrets.TARGET_REPO_USER }}"
+        git config user.email "${{ secrets.TARGET_REPO_USER }}@users.noreply.github.com"
+        git add *.m3u
+        git commit -m "Auto update playlist on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+        git push
