@@ -40,7 +40,7 @@ jobs:
 
     - name: Copy target repo
       run: |
-        cp tmp_folder/*.m3u ${{ secrets.TARGET_NAMETSCHD2 }}/*.m3u
+        cp *.m3u ${{ secrets.TARGET_NAMETSCHD2 }}/*.m3u
 
     - name: Commit & push to target repository
       run: |
