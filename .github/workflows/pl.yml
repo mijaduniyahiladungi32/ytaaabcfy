@@ -34,7 +34,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.TARGET_TOKENCHS2 }}@${{ secrets.TARGET_URLTSCHD2 }} ${{ secrets.TARGET_NAMETSCHD2 }}
 
       - name: Copy .m3u files
-        run: cp tmp_folder/*.m3u ${{ secrets.TARGET_NAMETSCHD2 }}/
+        run: cp *.m3u ${{ secrets.TARGET_NAMETSCHD2 }}/
 
       - name: Commit & push
         run: |
