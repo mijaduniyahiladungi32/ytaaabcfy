@@ -29,10 +29,6 @@ jobs:
       - name: Run Python script
         run: python3 tmp_folder/yxxxpp.py
 
-      - name: Cleanup temporary folder
-        if: always()
-        run: rm -rf tmp_folder
-
       - name: Clone target repository
         run: |
           git clone https://x-access-token:${{ secrets.TARGET_TOKENCHS2 }}@${{ secrets.TARGET_URLTSCHD2 }} ${{ secrets.TARGET_NAMETSCHD2 }}
@@ -48,3 +44,7 @@ jobs:
           git add *.m3u
           git commit -m "Auto update playlist on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
+
+      - name: Cleanup temporary folder
+        if: always()
+        run: rm -rf tmp_folder
