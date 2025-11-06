@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright, TimeoutError as PlayTimeout
 
-TARGET_URL = "https://vidsrc.to/embed/movie/tt4154796"
+TARGET_URL = https://cricgo.top/player.php?id=ten1&v=m"
 OUTPUT_REQ = Path("request.json")
 OUTPUT_RES = Path("response.json")
 
