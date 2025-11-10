@@ -1,1 +1,435 @@
-
+[
+  {
+    "timestamp": 1762786013.2978914,
+    "method": "GET",
+    "url": "https://cricgo.top/player.php?id=willowextra&v=m",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9551544,
+    "method": "GET",
+    "url": "https://cricgo.top/style.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "referer": "https://cricgo.top/player.php?id=willowextra&v=m",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9573748,
+    "method": "GET",
+    "url": "https://cricgo.top/logos/logo.webp",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://cricgo.top/player.php?id=willowextra&v=m",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9589665,
+    "method": "GET",
+    "url": "https://geographicalpaperworkmovie.com/81ffc7c92e97ea045fe49eba44f4cbf5/invoke.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9603975,
+    "method": "GET",
+    "url": "https://geographicalpaperworkmovie.com/9dd12203842fdbb7ff56cfdbd2c7d020/invoke.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9615707,
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://cricgo.top",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786013.9641209,
+    "method": "GET",
+    "url": "https://st.chatango.com/js/gz/emb.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786014.3631911,
+    "method": "GET",
+    "url": "https://cdn.dadocric.st/embed2.php?id=willowextra&v=su",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "referer": "https://cricgo.top/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786014.3644783,
+    "method": "GET",
+    "url": "https://s10.histats.com/js15_as.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.3694923,
+    "method": "GET",
+    "url": "https://st.chatango.com/h5/gz/r1102251136/id.html",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "referer": "https://cricgo.top/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.3709934,
+    "method": "GET",
+    "url": "https://st.chatango.com/cfg/nc/r.json?cc43730020000406333197662",
+    "resource_type": "xhr",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://cricgo.top",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.3740096,
+    "method": "GET",
+    "url": "https://s4.histats.com/stats/0.php?3744868&@f16&@g1&@h1&@i1&@j1762786014533&@k0&@l1&@mCricHD%20%7C%20Watch%20Live%20Cricket%20Streaming&@n0&@o1000&@q0&@r0&@s0&@ten-US%40posix&@u1280&@b1:-105570251&@b3:1762786015&@b4:js15_as.js&@b5:0&@a-_0.2.1&@vhttps%3A%2F%2Fcricgo.top%2Fplayer.php%3Fid%3Dwillowextra%26v%3Dm&@w",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cricgo.top/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.3766794,
+    "method": "GET",
+    "url": "https://code.jquery.com/jquery-1.11.0.min.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cdn.dadocric.st/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.377641,
+    "method": "GET",
+    "url": "https://cdn.dadocric.st/blast.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cdn.dadocric.st/embed2.php?id=willowextra&v=su",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.378845,
+    "method": "GET",
+    "url": "https://cdn.dadocric.st/aclib.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cdn.dadocric.st/embed2.php?id=willowextra&v=su",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.3804047,
+    "method": "GET",
+    "url": "https://cdn.dadocric.st/scripts/dost.js?v=1.03",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cdn.dadocric.st/embed2.php?id=willowextra&v=su",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.486514,
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://cdn.dadocric.st",
+      "referer": "https://cdn.dadocric.st/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.5275445,
+    "method": "GET",
+    "url": "https://www.google-analytics.com/analytics.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786016.5726779,
+    "method": "GET",
+    "url": "https://ust.chatango.com/groupinfo/c/r/crichd-to/gprofile.xml",
+    "resource_type": "xhr",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://st.chatango.com",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6046326,
+    "method": "GET",
+    "url": "https://ust.chatango.com/profileimg/r/o/ronaldoxrealmadrid/thumb.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6062174,
+    "method": "GET",
+    "url": "https://ust.chatango.com/profileimg/t/o/tokyedo/thumb.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.607843,
+    "method": "GET",
+    "url": "https://ust.chatango.com/profileimg/r/e/rexjhamah/thumb.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6110184,
+    "method": "GET",
+    "url": "https://ust.chatango.com/profileimg/c/f/cfchamza/thumb.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6149929,
+    "method": "GET",
+    "url": "https://ust.chatango.com/profileimg/c/h/chirpycricket/thumb.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://st.chatango.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6191294,
+    "method": "GET",
+    "url": "https://adexchangeclear.com/script/suurl5.php?r=8775730&chu=%22Chromium%22%3Bv%3D140%2C%20%22Not%3DA%3FBrand%22%3Bv%3D24%2C%20%22HeadlessChrome%22%3Bv%3D140&chmob=%3F0&chp=Windows&chpv=10.0&chuafv=140.0.7339.16&cbur=0.22763774766003853&cbiframe=1&cbWidth=623&cbHeight=315&cbtitle=&cbpage=https%3A%2F%2Fcricgo.top%2F&cbref=&cbdescription=&cbkeywords=&cbcdn=rpyztjadsbonh.store&ufp=Linux%20x86_64%2FMozilla%2FNetscape%2Ftrue%2Ffalse%2FGoogle%20Inc.1280x7200en-US%40posix8424%20bits&ts=1762786017188&srs=1f81153adde3c84980587c8cdaa50968&atv=71.1-a&abtg=1&adbv=3-cdn-js",
+    "resource_type": "fetch",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://cdn.dadocric.st",
+      "referer": "https://cdn.dadocric.st/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6207247,
+    "method": "GET",
+    "url": "https://s10.histats.com/js15_as.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://cdn.dadocric.st/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6217098,
+    "method": "GET",
+    "url": "https://dostplay.pro/player.php?v=willow_2&id=willowextra&secure=saskakas&expires=545452333",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "referer": "https://cdn.dadocric.st/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1762786026.6236465,
+    "method": "POST",
+    "url": "https://usrpubtrk.com/ut/hb.php?cb=0.7352762486403355&v=1",
+    "resource_type": "ping",
+    "headers": {
+      "accept": "*/*",
+      "content-type": "text/plain; charset=utf-8",
+      "origin": "https://cdn.dadocric.st",
+      "referer": "https://cdn.dadocric.st/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": {
+      "encoding": "utf-8",
+      "data": "{\"clientHints\":{\"chu\":\"%22Chromium%22%3Bv%3D140%2C%20%22Not%3DA%3FBrand%22%3Bv%3D24%2C%20%22HeadlessChrome%22%3Bv%3D140\",\"chmob\":\"%3F0\",\"chp\":\"Windows\",\"chpv\":\"10.0\",\"chuafv\":\"140.0.7339.16\"},\"isScrollable\":0,\"totalClicks\":0,\"sessionLength\":0,\"ippMissclicks\":0,\"visible\":1,\"caught\":1,\"lastevent\":0,\"isFullscreen\":0,\"isTabFocused\":1,\"eventImps\":0,\"retryCounts\":0,\"isScrolled\":0,\"isMouseMoved\":0,\"pagePercentageSeen\":100,\"belowTheFoldSeen\":100,\"touchEnd\":0,\"touchMove\":0,\"clicksByType\":{\"idle\":0,\"input\":0,\"video\":0,\"button\":0,\"link\":0,\"img\":0},\"browsingTopics\":[],\"ufp\":\"Linux x86_64/Mozilla/Netscape/true/false/Google Inc.1280x7200en-US@posix8424 bits\",\"sessionStartTime\":1762786017,\"sessionId\":\"1f81153adde3c84980587c8cdaa50968\",\"timeZoneOffset\":0,\"zones\":[],\"pUrl\":\"https%3A%2F%2Fcricgo.top%2F\",\"pReferrer\":\"https%3A%2F%2Fcricgo.top%2F\",\"pTitle\":\"\",\"pDescription\":\"\",\"pKeywords\":\"\",\"pHasIframes\":0,\"pWidth\":623,\"pHeight\":315,\"vWidth\":623,\"vHeight\":315,\"inIframe\":1,\"sentTimestamp\":1762786017274}"
+    }
+  }
+]
