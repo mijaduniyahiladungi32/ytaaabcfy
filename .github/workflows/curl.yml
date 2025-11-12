@@ -1,0 +1,30 @@
+name: Curl GET & Push Output
+
+on:
+  workflow_dispatch: # manual trigger, চাইলে cron: '0 * * * *' ও ব্যবহার করা যাবে
+
+jobs:
+  curl-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Make GET request with Referer
+        run: |
+          mkdir -p output
+          curl -X GET 'https://profamouslife.com/premium.php?player=mobile&live=ptvpk' \
+          -H 'Referer: https://streamcrichd.com/' \
+          -o output/response_body.txt
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push
+        run: |
+          git add output/response_body.txt
+          git commit -m "Update response_body.txt [skip ci]" || echo "No changes to commit"
+          git push
