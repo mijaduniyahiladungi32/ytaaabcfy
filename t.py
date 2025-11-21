@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright, TimeoutError as PlayTimeout
 
-TARGET_URL = "https://xfireflix.fun/CricHD/get-gr.php?url=https://saicord.com/hi/movies/1394-k-g-f-chapter-2.html"
+TARGET_URL = "https://www.bilibili.tv/en/video/4795275155346944"
 OUTPUT_REQ = Path("request.json")
 OUTPUT_RES = Path("response.json")
 
