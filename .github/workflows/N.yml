@@ -1,17 +1,17 @@
 name: Generate Playlist
 
 on:
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
   push:
     branches:
-      - main  # Or your default branch
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # Allow committing back to repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -25,11 +25,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install yt-dlp requests pytz
 
       - name: Run playlist generator
         run: |
-          python n.y  # ⬅️ Replace with your actual filename
+          python n.y   # আপনার স্ক্রিপ্ট নাম এখানে
 
       - name: Commit and push playlist
         run: |
