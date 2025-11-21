@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": 1763739258.5606356,
+    "timestamp": 1763739493.3705432,
     "method": "GET",
     "url": "https://www.bilibili.tv/en/video/4795275155346944",
     "resource_type": "document",
@@ -15,7 +15,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6234288,
+    "timestamp": 1763739494.3756738,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/polyfills-f83178a1.js",
     "resource_type": "script",
@@ -31,7 +31,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6256173,
+    "timestamp": 1763739494.3773417,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-dfb4c50d.css",
     "resource_type": "stylesheet",
@@ -46,7 +46,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6275094,
+    "timestamp": 1763739494.3784087,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ugc-d13c89f4.css",
     "resource_type": "stylesheet",
@@ -61,7 +61,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6293557,
+    "timestamp": 1763739494.3794065,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/style-640243e2.css",
     "resource_type": "stylesheet",
@@ -76,7 +76,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6312244,
+    "timestamp": 1763739494.380388,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/meta-intro-e5572987.css",
     "resource_type": "stylesheet",
@@ -91,7 +91,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6348112,
+    "timestamp": 1763739494.3836591,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/user-615fae61.css",
     "resource_type": "stylesheet",
@@ -106,7 +106,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.636069,
+    "timestamp": 1763739494.385005,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/banner-922e0b51.css",
     "resource_type": "stylesheet",
@@ -121,7 +121,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.637244,
+    "timestamp": 1763739494.3861485,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-517efd10.css",
     "resource_type": "stylesheet",
@@ -136,7 +136,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6384783,
+    "timestamp": 1763739494.3873265,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/entry-pc-7837bbe3.css",
     "resource_type": "stylesheet",
@@ -151,7 +151,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6396403,
+    "timestamp": 1763739494.3884337,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/popper-3aa7b8a2.css",
     "resource_type": "stylesheet",
@@ -166,7 +166,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6410007,
+    "timestamp": 1763739494.3895204,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/feedback-list-504c487d.css",
     "resource_type": "stylesheet",
@@ -181,7 +181,52 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6422777,
+    "timestamp": 1763739494.3906133,
+    "method": "GET",
+    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player-feedback-ab0f9f43.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739494.391781,
+    "method": "GET",
+    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/video-error-9c461421.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739494.392866,
+    "method": "GET",
+    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/tabs-3b89f1f6.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739494.3939774,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/dash-player-c9b6d02b.js",
     "resource_type": "script",
@@ -197,7 +242,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6436248,
+    "timestamp": 1763739494.3951383,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-e3c9ef95.js",
     "resource_type": "script",
@@ -213,7 +258,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.644791,
+    "timestamp": 1763739494.396231,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/log-report-9de161c1.js",
     "resource_type": "script",
@@ -229,7 +274,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6459157,
+    "timestamp": 1763739494.3973153,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/alife-logger-e16748d0.js",
     "resource_type": "script",
@@ -245,52 +290,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6470842,
-    "method": "GET",
-    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player-feedback-ab0f9f43.css",
-    "resource_type": "stylesheet",
-    "headers": {
-      "accept": "text/css,*/*;q=0.1",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739259.6481729,
-    "method": "GET",
-    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/video-error-9c461421.css",
-    "resource_type": "stylesheet",
-    "headers": {
-      "accept": "text/css,*/*;q=0.1",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739259.649289,
-    "method": "GET",
-    "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/tabs-3b89f1f6.css",
-    "resource_type": "stylesheet",
-    "headers": {
-      "accept": "text/css,*/*;q=0.1",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739259.6508443,
+    "timestamp": 1763739494.3984752,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/vendor-26128f2e.js",
     "resource_type": "script",
@@ -306,7 +306,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.652207,
+    "timestamp": 1763739494.3996322,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/intlify-faaa4fd2.js",
     "resource_type": "script",
@@ -322,7 +322,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.653704,
+    "timestamp": 1763739494.4007256,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/i18n-b090cad2.js",
     "resource_type": "script",
@@ -338,7 +338,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6549404,
+    "timestamp": 1763739494.4019003,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-cdd2641b.css",
     "resource_type": "stylesheet",
@@ -353,7 +353,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.656506,
+    "timestamp": 1763739494.4034338,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/black-bg-49c43c90.png",
     "resource_type": "image",
@@ -368,7 +368,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6578894,
+    "timestamp": 1763739494.4044168,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/feedback-869b42fc.svg",
     "resource_type": "image",
@@ -383,7 +383,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.6590593,
+    "timestamp": 1763739494.4055622,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/icon_report-32bc9553.svg",
     "resource_type": "image",
@@ -398,7 +398,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.7873511,
+    "timestamp": 1763739494.6434667,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/like_video-d4d9a2b2.svg",
     "resource_type": "image",
@@ -413,7 +413,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.7886353,
+    "timestamp": 1763739494.6462028,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/mylist-3f5ad18e.svg",
     "resource_type": "image",
@@ -428,7 +428,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.7922888,
+    "timestamp": 1763739494.6476822,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/btn_more-1d181a5b.svg",
     "resource_type": "image",
@@ -443,7 +443,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.794063,
+    "timestamp": 1763739494.6493342,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/51f703f52fded3341b4d8a78bc641eb944611458.jpg@80w_80h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -458,7 +458,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.7970917,
+    "timestamp": 1763739494.6508698,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/82e19e363783830530924f934ffc2c41.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -473,7 +473,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.7986069,
+    "timestamp": 1763739494.6524148,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/21904b16dcd7aeba5c6b1efdb32ea19f8bfa28da.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -488,7 +488,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8003225,
+    "timestamp": 1763739494.654006,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/3a192d54d76ad8c09001d16c9ea2ab7f.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -503,7 +503,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8025172,
+    "timestamp": 1763739494.6557117,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/8d6ec14ced86b7166ac4440c0108a40eaef387ac.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -518,7 +518,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.804156,
+    "timestamp": 1763739494.6571612,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/37f69cb5fdf40b036221ca025d9a938e.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -533,7 +533,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8056123,
+    "timestamp": 1763739494.6600704,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/noface_v1.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -548,7 +548,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8075652,
+    "timestamp": 1763739494.6621099,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/100a997bf6bc58482c52e9cd6359fdc5.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -563,7 +563,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8092895,
+    "timestamp": 1763739494.6659892,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/8c044a49a88c2a23d9c2c895645dab6b18a4399f.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -578,7 +578,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8119586,
+    "timestamp": 1763739494.6675417,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/2659fcfefaa92c4deaf52f1345c38072.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -593,7 +593,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.813465,
+    "timestamp": 1763739494.6690965,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/bc65fd21762f8b94caf2a3200dee63806b1af1a0.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -608,7 +608,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8151107,
+    "timestamp": 1763739494.6706624,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/719ad17f2ccd875e4c9536b96a81e475.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -623,7 +623,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8171895,
+    "timestamp": 1763739494.6723273,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/6144617bc99c35433bf356033a893133af798791.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -638,7 +638,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8187397,
+    "timestamp": 1763739494.673989,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/0d5239cce318cf08336183282a2e90d1.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -653,7 +653,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8212278,
+    "timestamp": 1763739494.6755176,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/a3b2bfe326927192b7d273cfe91256a8e9bec043.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -668,7 +668,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8230395,
+    "timestamp": 1763739494.6770253,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/aeb9b5468e15b6c613b80d50bb218cbc.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -683,7 +683,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8241813,
+    "timestamp": 1763739494.6787477,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/cde1d99117ee3c7b22a6f6bf0248b6f1c690ccf6.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -698,7 +698,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8251255,
+    "timestamp": 1763739494.680401,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/1c83ac8a49e900e8aa19f68533ade95b.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -713,7 +713,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.826259,
+    "timestamp": 1763739494.6818826,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/2927ab4cca7e69f87b5a1c7a24b3732d946869ef.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -728,7 +728,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8274527,
+    "timestamp": 1763739494.6833436,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/2f5bf2d5b484cda27e40ca49b9252ba1.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -743,7 +743,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.828944,
+    "timestamp": 1763739494.6847177,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/546a9034bce2f86554773892c1bd15040b63130f.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -758,7 +758,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8305876,
+    "timestamp": 1763739494.6860569,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/eb29a71438d980d9cf91d1ed1e6ce284.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -773,7 +773,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8320289,
+    "timestamp": 1763739494.687515,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/ca74acf50cbb802c41876b34c11cdf0cb2a3a724.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -788,7 +788,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8330483,
+    "timestamp": 1763739494.6888957,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/877ae3c31397d5483f32e7804715fe26.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -803,7 +803,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8340168,
+    "timestamp": 1763739494.6902795,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/1eb2d0839015c462ea7aabe75b6e89d6.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -818,7 +818,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.835455,
+    "timestamp": 1763739494.6917708,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/6e91c0ace60271cc70767199b3c040f675f33665.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -833,7 +833,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8370574,
+    "timestamp": 1763739494.6932967,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/72879977c17f9633385b791b9b69a6e0.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -848,7 +848,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.83926,
+    "timestamp": 1763739494.694755,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/5e206afb1929a32f4416121bfc5aef57f9b0b2ba.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -863,7 +863,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8404753,
+    "timestamp": 1763739494.6961641,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/a2fde5d76c7e6d63905326daddd5ff8b.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -878,7 +878,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8422832,
+    "timestamp": 1763739494.6978345,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/5002df5c72111bb576bff9f6dd165375.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -893,7 +893,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8432105,
+    "timestamp": 1763739494.699421,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/cfe1daa79d6cac128c6b9e60821d71572ad0f8ee.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -908,7 +908,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8441677,
+    "timestamp": 1763739494.7009897,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/bcb6fddf7932ecafdef61fad1d083cf3.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -923,7 +923,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8452375,
+    "timestamp": 1763739494.7025518,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/1f169c67a4fe037b87577d0d2e4fef872de9ff7a.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -938,7 +938,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8462014,
+    "timestamp": 1763739494.7041624,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/d53665c5e188d862a30abf4a507deabf.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -953,7 +953,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8498373,
+    "timestamp": 1763739494.7058094,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/293b8850f59186dd38b8a58316097f91b571a3d1.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -968,7 +968,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8517253,
+    "timestamp": 1763739494.7068772,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/b7f77dd23cb946ae8864565ecc9d4f24.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -983,7 +983,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8529434,
+    "timestamp": 1763739494.7078915,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/ea382595c6900718402a1c927104e4dbc69921da.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -998,7 +998,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.854078,
+    "timestamp": 1763739494.7089813,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/ugc/16cf0313361cb9608fac5c17a2b5602d.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -1013,7 +1013,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8551674,
+    "timestamp": 1763739494.7101576,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/d133ec79dad16fdde3cbc0e22e4a8fdb20bfd915.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -1028,7 +1028,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8835802,
+    "timestamp": 1763739494.7204854,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/axios-737d3fff.js",
     "resource_type": "script",
@@ -1044,7 +1044,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.8844287,
+    "timestamp": 1763739494.7215002,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/uuid-a960c1f4.js",
     "resource_type": "script",
@@ -1060,7 +1060,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.885778,
+    "timestamp": 1763739494.7227275,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/popper-core-1b982a0e.js",
     "resource_type": "script",
@@ -1076,7 +1076,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739259.887309,
+    "timestamp": 1763739494.724225,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/jsrsasign-4cf29584.js",
     "resource_type": "script",
@@ -1092,7 +1092,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0065963,
+    "timestamp": 1763739494.84715,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-b510d485.js",
     "resource_type": "script",
@@ -1107,7 +1107,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0082004,
+    "timestamp": 1763739494.8485546,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ugc-8dd0eb10.js",
     "resource_type": "script",
@@ -1122,7 +1122,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0098405,
+    "timestamp": 1763739494.8498209,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ogv-67b2272c.js",
     "resource_type": "script",
@@ -1137,7 +1137,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0114062,
+    "timestamp": 1763739494.8510559,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/code-f72d0265.js",
     "resource_type": "script",
@@ -1152,7 +1152,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0131605,
+    "timestamp": 1763739494.8520498,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/search-result-4372d6d9.js",
     "resource_type": "script",
@@ -1167,7 +1167,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0146132,
+    "timestamp": 1763739494.853444,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/useVipLogin-e636b151.js",
     "resource_type": "script",
@@ -1182,7 +1182,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.018579,
+    "timestamp": 1763739494.8544168,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/useVip-47f22f13.js",
     "resource_type": "script",
@@ -1197,7 +1197,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0244434,
+    "timestamp": 1763739494.855392,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-405648d9.js",
     "resource_type": "script",
@@ -1212,7 +1212,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0263808,
+    "timestamp": 1763739494.856405,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/anime-c2803d3c.js",
     "resource_type": "script",
@@ -1227,7 +1227,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0285747,
+    "timestamp": 1763739494.8577769,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/anime-6879fdc0.js",
     "resource_type": "script",
@@ -1242,7 +1242,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0302813,
+    "timestamp": 1763739494.8590407,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ugc-9362e3fe.js",
     "resource_type": "script",
@@ -1257,7 +1257,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0328593,
+    "timestamp": 1763739494.860041,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/fav-7964ef23.js",
     "resource_type": "script",
@@ -1272,7 +1272,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0344274,
+    "timestamp": 1763739494.8616207,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/fav-1eab46f2.js",
     "resource_type": "script",
@@ -1287,7 +1287,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0358267,
+    "timestamp": 1763739494.8626711,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/login-071ce26f.js",
     "resource_type": "script",
@@ -1302,7 +1302,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0372708,
+    "timestamp": 1763739494.864087,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/useSpm-822aba04.js",
     "resource_type": "script",
@@ -1317,7 +1317,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0383003,
+    "timestamp": 1763739494.8650084,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player-feedback.vue_vue_type_script_setup_true_lang-6c6605aa.js",
     "resource_type": "script",
@@ -1332,7 +1332,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0396516,
+    "timestamp": 1763739494.8660746,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/history-7a8652da.js",
     "resource_type": "script",
@@ -1347,7 +1347,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0411465,
+    "timestamp": 1763739494.8669775,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/util-91990ed7.js",
     "resource_type": "script",
@@ -1362,7 +1362,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0424008,
+    "timestamp": 1763739494.8680065,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/meta-intro.vue_vue_type_style_index_0_lang-8e20acd1.js",
     "resource_type": "script",
@@ -1377,7 +1377,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0439458,
+    "timestamp": 1763739494.869358,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/useFold-6cadaf27.js",
     "resource_type": "script",
@@ -1392,7 +1392,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0455005,
+    "timestamp": 1763739494.870945,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/style-a2cb12e0.js",
     "resource_type": "script",
@@ -1407,7 +1407,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.046902,
+    "timestamp": 1763739494.8723192,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/style-c0b5322b.css",
     "resource_type": "stylesheet",
@@ -1422,7 +1422,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0484512,
+    "timestamp": 1763739494.8736238,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/interaction-2cda5683.js",
     "resource_type": "script",
@@ -1437,7 +1437,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.050242,
+    "timestamp": 1763739494.8754284,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-cca1dd0c.js",
     "resource_type": "script",
@@ -1452,7 +1452,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.051843,
+    "timestamp": 1763739494.877137,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/tabs-d030941c.js",
     "resource_type": "script",
@@ -1467,7 +1467,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.053362,
+    "timestamp": 1763739494.8802934,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/trending-25969a0f.js",
     "resource_type": "script",
@@ -1482,7 +1482,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0554252,
+    "timestamp": 1763739494.8821151,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/drawer-8790d7a3.js",
     "resource_type": "script",
@@ -1497,7 +1497,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0608141,
+    "timestamp": 1763739494.883891,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/drawer-cc742614.css",
     "resource_type": "stylesheet",
@@ -1512,7 +1512,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0627413,
+    "timestamp": 1763739494.8863442,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/vip-a6214b00.js",
     "resource_type": "script",
@@ -1527,7 +1527,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0642776,
+    "timestamp": 1763739494.8879201,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/b-error.es-49ddeef2.js",
     "resource_type": "script",
@@ -1542,7 +1542,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.066376,
+    "timestamp": 1763739494.8894172,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/shortDrama-69e7a3bc.js",
     "resource_type": "script",
@@ -1557,7 +1557,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0683246,
+    "timestamp": 1763739494.8912878,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/meta-tag.vue_vue_type_style_index_0_lang-aa72a354.js",
     "resource_type": "script",
@@ -1572,7 +1572,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.069985,
+    "timestamp": 1763739494.8929408,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/meta-tag-418b699a.css",
     "resource_type": "stylesheet",
@@ -1587,7 +1587,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.071809,
+    "timestamp": 1763739494.8945227,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/share-d6b719a1.js",
     "resource_type": "script",
@@ -1602,7 +1602,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0733938,
+    "timestamp": 1763739494.8965025,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/banner-29328d64.js",
     "resource_type": "script",
@@ -1617,7 +1617,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.075237,
+    "timestamp": 1763739494.8981478,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ugc-feedback.vue_vue_type_script_setup_true_lang-94b1f049.js",
     "resource_type": "script",
@@ -1632,7 +1632,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.078455,
+    "timestamp": 1763739494.8998077,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/user-d8deb683.js",
     "resource_type": "script",
@@ -1647,7 +1647,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.085455,
+    "timestamp": 1763739494.901366,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/useFakeFollow-9fb74cf6.js",
     "resource_type": "script",
@@ -1662,7 +1662,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0880973,
+    "timestamp": 1763739494.9043782,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/popper-ae6c0fdf.js",
     "resource_type": "script",
@@ -1677,7 +1677,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.09192,
+    "timestamp": 1763739494.9064515,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/util-504d8e78.js",
     "resource_type": "script",
@@ -1692,7 +1692,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0936415,
+    "timestamp": 1763739494.9079573,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/ugc-feedback-1d11695d.css",
     "resource_type": "stylesheet",
@@ -1707,7 +1707,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.095582,
+    "timestamp": 1763739494.909625,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index.vue_vue_type_script_setup_true_lang-bc6eb993.js",
     "resource_type": "script",
@@ -1722,7 +1722,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.097568,
+    "timestamp": 1763739494.911173,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/video-error-d4399abc.js",
     "resource_type": "script",
@@ -1737,7 +1737,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.0995007,
+    "timestamp": 1763739494.9128282,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/video-toapp-dialog-1edc36af.js",
     "resource_type": "script",
@@ -1752,7 +1752,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739260.101359,
+    "timestamp": 1763739494.9144497,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/video-toapp-dialog-b4aa8a7c.css",
     "resource_type": "stylesheet",
@@ -1767,14 +1767,29 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.175113,
+    "timestamp": 1763739496.9784322,
+    "method": "HEAD",
+    "url": "https://arms-retcode-sg.aliyuncs.com/r.png?t=pv&times=1&page=%5Bindex%5D&tag=&release=0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1&environment=prod&begin=1763739494976&uid=e001e1fb-356a-4027-b329-4424ac4befc958043infoc&dt=Barbad%20full%20HD%20movie%20%E0%A6%AC%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A6%20%E0%A6%AB%E0%A7%81%E0%A6%B2%20%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%20-%20BiliBili&dr=&dpr=1.00&de=utf-8&ul=en&sr=1280x720&vp=1280x720&ct=4g&sid=60ma2i209zw0kFypqg2q5wOdq8zg&pid=1hfr11220ve%4080489e53680e0e1&_v=1.8.30&pv_id=58mp2itI9780I4y4tgsX1e8cX0eC&sampling=1&dl=https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944&z=mi90yfzg",
+    "resource_type": "fetch",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739496.980401,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0000141763739260157https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944||333.989.0.0|1763739260157||1280x720|1|{}|{}|8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc|en-US@posix||0",
+    "url": "https://data.bilibili.tv/log/web?0000141763739494993https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944||333.989.0.0|1763739494993||1280x720|1|{}|{}|e001e1fb-356a-4027-b329-4424ac4befc958043infoc|en-US@posix||0",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryRPqCXEUZy8tradxg",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryKHUYyovZGlQ5o4HS",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -1784,11 +1799,11 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryRPqCXEUZy8tradxg--\r\n"
+      "data": "------WebKitFormBoundaryKHUYyovZGlQ5o4HS--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.1763787,
+    "timestamp": 1763739496.9812405,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/black-bg-49c43c90.png",
     "resource_type": "image",
@@ -1803,7 +1818,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1775446,
+    "timestamp": 1763739496.982232,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/index-c11859d8.js",
     "resource_type": "script",
@@ -1818,14 +1833,14 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.178492,
+    "timestamp": 1763739496.9833114,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0000171763739260234https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.cc_click||1763739260234|0|0|1280x720|1|{%22event%22:%22cc_click%22,%22value%22:{%22type%22:%22ugc%22,%22from_lang%22:%22Initial%22,%22to_lang%22:%22en%22,%22aid%22:%224795275155346944%22,%22sid%22:%22%22,%22epid%22:%22%22}}|{}||8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc|en-US@posix||1",
+    "url": "https://data.bilibili.tv/log/web?0000171763739495067https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.cc_click||1763739495067|0|0|1280x720|1|{%22event%22:%22cc_click%22,%22value%22:{%22type%22:%22ugc%22,%22from_lang%22:%22Initial%22,%22to_lang%22:%22en%22,%22aid%22:%224795275155346944%22,%22sid%22:%22%22,%22epid%22:%22%22}}|{}||e001e1fb-356a-4027-b329-4424ac4befc958043infoc|en-US@posix||1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarybOtED0oX02gaKRKA",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryhK8OIcGsxkbiL7mA",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -1835,11 +1850,11 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundarybOtED0oX02gaKRKA--\r\n"
+      "data": "------WebKitFormBoundaryhK8OIcGsxkbiL7mA--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.1794984,
+    "timestamp": 1763739496.9847324,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player.es-229462d2.js",
     "resource_type": "script",
@@ -1854,7 +1869,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.180417,
+    "timestamp": 1763739496.9861445,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player-components-6ca0ca68.js",
     "resource_type": "script",
@@ -1869,7 +1884,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1813865,
+    "timestamp": 1763739496.9873192,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/player-danmaku-f6ffef2f.js",
     "resource_type": "script",
@@ -1884,7 +1899,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1829333,
+    "timestamp": 1763739496.988464,
     "method": "GET",
     "url": "https://p.bstarstatic.com/management/5c19f8414ccec0b89df54a2d0e53d863.png@480w_160h_1e_1c_1f.webp",
     "resource_type": "fetch",
@@ -1900,7 +1915,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1843905,
+    "timestamp": 1763739496.9895577,
     "method": "GET",
     "url": "https://p.bstarstatic.com/management/ce74e4a38e7ffc15c9187d7210330ba1.png@840w_140h_1e_1c_1f.webp",
     "resource_type": "fetch",
@@ -1916,7 +1931,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.185701,
+    "timestamp": 1763739496.9907124,
     "method": "GET",
     "url": "https://accounts.google.com/gsi/client",
     "resource_type": "script",
@@ -1931,7 +1946,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1869895,
+    "timestamp": 1763739496.991885,
     "method": "GET",
     "url": "https://connect.facebook.net/en_US/sdk.js",
     "resource_type": "script",
@@ -1946,14 +1961,14 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1881855,
+    "timestamp": 1763739496.9930522,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0000171763739260313https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.third_login_network_slow||1763739260313|0|0|1280x720|1|{%22event%22:%22third_login_network_slow%22,%22value%22:%22facebook%22}|{}||8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc|en-US@posix||1",
+    "url": "https://data.bilibili.tv/log/web?0000171763739495143https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.third_login_network_slow||1763739495143|0|0|1280x720|1|{%22event%22:%22third_login_network_slow%22,%22value%22:%22facebook%22}|{}||e001e1fb-356a-4027-b329-4424ac4befc958043infoc|en-US@posix||1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryzeFo0v0LrlF7MrQQ",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryQn8XUHhizQlBLpTm",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -1963,11 +1978,11 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryzeFo0v0LrlF7MrQQ--\r\n"
+      "data": "------WebKitFormBoundaryQn8XUHhizQlBLpTm--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.1897204,
+    "timestamp": 1763739496.9944282,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/20221019/default_avatar.png",
     "resource_type": "image",
@@ -1982,7 +1997,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.19077,
+    "timestamp": 1763739496.9953892,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/20221019/icon_loading.gif",
     "resource_type": "image",
@@ -1997,13 +2012,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1922581,
+    "timestamp": 1763739496.9964812,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/subtitle?s_locale=en_US&platform=web&aid=4795275155346944&spm_id=bstar-web.ugc-video-detail.0.0&from_spm_id=",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2014,13 +2029,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1940744,
+    "timestamp": 1763739496.9975746,
     "method": "GET",
     "url": "https://api.bilibili.tv/dm/web/view?s_locale=en_US&platform=web&oid=4795275155346944&type=1",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2031,13 +2046,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1958237,
+    "timestamp": 1763739496.9988012,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/video/shot?s_locale=en_US&platform=web&aid=4795275155346944&spm_id=bstar-web.ugc-video-detail.0.0&from_spm_id=",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2048,13 +2063,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.1972082,
+    "timestamp": 1763739496.999911,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/notifycard?s_locale=en_US&platform=web&from_page=ugc_player&position=1007,21",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2065,13 +2080,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.198731,
+    "timestamp": 1763739497.000958,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/popups?s_locale=en_US&platform=web",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2082,13 +2097,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2003493,
+    "timestamp": 1763739497.0019946,
     "method": "GET",
     "url": "https://api.bilibili.tv/reply/web/root?s_locale=en_US&platform=web&pn=0&ps=20&oid=4795275155346944&type=1&sort_type=1",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2099,13 +2114,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2019408,
+    "timestamp": 1763739497.0030863,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/login/config?s_locale=en_US&platform=web",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2116,13 +2131,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2034569,
+    "timestamp": 1763739497.0041208,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/vip/benefits/panel?s_locale=en_US&from_page=nav&platform=web",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2133,13 +2148,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2051823,
+    "timestamp": 1763739497.0051641,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/v2/notifycard?s_locale=en_US&platform=web&from_page=ugc_player&position=1007,21",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2150,13 +2165,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2069263,
+    "timestamp": 1763739497.006637,
     "method": "GET",
     "url": "https://api.bilibili.tv/intl/gateway/web/playurl?s_locale=en_US&platform=web&aid=4795275155346944&qn=64&type=0&device=wap&tf=0&spm_id=bstar-web.ugc-video-detail.0.0&from_spm_id=",
     "resource_type": "xhr",
     "headers": {
       "accept": "application/json, text/plain, */*",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2167,22 +2182,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2085173,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/ugc/3a192d54d76ad8c09001d16c9ea2ab7f.jpg@320w_180h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.2100477,
+    "timestamp": 1763739497.0125775,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/8d6ec14ced86b7166ac4440c0108a40eaef387ac.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2197,7 +2197,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2115278,
+    "timestamp": 1763739497.0140042,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/noface_v1.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2212,37 +2212,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2131357,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/ugc/100a997bf6bc58482c52e9cd6359fdc5.jpg@320w_180h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.2146037,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/face/8c044a49a88c2a23d9c2c895645dab6b18a4399f.png@28w_28h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.2168183,
+    "timestamp": 1763739497.0155444,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/bc65fd21762f8b94caf2a3200dee63806b1af1a0.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2257,7 +2227,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.22076,
+    "timestamp": 1763739497.016717,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/6144617bc99c35433bf356033a893133af798791.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2272,9 +2242,9 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2223146,
+    "timestamp": 1763739497.0180502,
     "method": "GET",
-    "url": "https://pic.bstarstatic.com/face/a3b2bfe326927192b7d273cfe91256a8e9bec043.jpg@28w_28h_1e_1c_90q.webp",
+    "url": "https://pic.bstarstatic.com/ugc/aeb9b5468e15b6c613b80d50bb218cbc.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
     "headers": {
       "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
@@ -2287,7 +2257,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2243576,
+    "timestamp": 1763739497.0196996,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/cde1d99117ee3c7b22a6f6bf0248b6f1c690ccf6.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2302,9 +2272,9 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2266867,
+    "timestamp": 1763739497.0212953,
     "method": "GET",
-    "url": "https://pic.bstarstatic.com/ugc/1c83ac8a49e900e8aa19f68533ade95b.jpg@320w_180h_1e_1c_90q.webp",
+    "url": "https://pic.bstarstatic.com/face/ca74acf50cbb802c41876b34c11cdf0cb2a3a724.jpg@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
     "headers": {
       "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
@@ -2317,22 +2287,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2288682,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/ugc/1eb2d0839015c462ea7aabe75b6e89d6.jpg@320w_180h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.2302997,
+    "timestamp": 1763739497.022898,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/5e206afb1929a32f4416121bfc5aef57f9b0b2ba.png@28w_28h_1e_1c_90q.webp",
     "resource_type": "image",
@@ -2347,9 +2302,9 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2318313,
+    "timestamp": 1763739497.0243876,
     "method": "GET",
-    "url": "https://pic.bstarstatic.com/face/293b8850f59186dd38b8a58316097f91b571a3d1.jpg@28w_28h_1e_1c_90q.webp",
+    "url": "https://pic.bstarstatic.com/ugc/d53665c5e188d862a30abf4a507deabf.jpg@320w_180h_1e_1c_90q.webp",
     "resource_type": "image",
     "headers": {
       "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
@@ -2362,37 +2317,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2332795,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/face/ea382595c6900718402a1c927104e4dbc69921da.jpg@28w_28h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.234705,
-    "method": "GET",
-    "url": "https://pic.bstarstatic.com/face/d133ec79dad16fdde3cbc0e22e4a8fdb20bfd915.png@28w_28h_1e_1c_90q.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.2361789,
+    "timestamp": 1763739497.0272686,
     "method": "GET",
     "url": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:911681628212:web:2350f295a39ccafd760261/webConfig",
     "resource_type": "fetch",
@@ -2409,14 +2334,44 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2377093,
+    "timestamp": 1763739497.0284173,
+    "method": "HEAD",
+    "url": "https://arms-retcode-sg.aliyuncs.com/r.png?t=resourceError&times=1&page=%5Bindex%5D&tag=&release=0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1&environment=prod&begin=1763739495187&src=https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944&node_name=img&xpath=div.ugc%20%3E%20section.video-play%20%3E%20div.video-player__right.video-player__right--ugc%20%3E%20div.play-page-banner%20%3E%20img.play-page-banner--img&sr=1280x720&vp=1280x720&ct=4g&uid=e001e1fb-356a-4027-b329-4424ac4befc958043infoc&sid=60ma2i209zw0kFypqg2q5wOdq8zg&pid=1hfr11220ve%4080489e53680e0e1&_v=1.8.30&pv_id=58mp2itI9780I4y4tgsX1e8cX0eC&sampling=1&z=mi90yfzh",
+    "resource_type": "fetch",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739497.0293784,
+    "method": "HEAD",
+    "url": "https://arms-retcode-sg.aliyuncs.com/r.png?t=resourceError&times=1&page=%5Bindex%5D&tag=&release=0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1&environment=prod&begin=1763739495187&src=https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944&node_name=img&xpath=section.video-play%20%3E%20div.video-player__right.video-player__right--ugc%20%3E%20div.play-page-banner%20%3E%20picture.%20%3E%20img.play-page-banner--img&sr=1280x720&vp=1280x720&ct=4g&uid=e001e1fb-356a-4027-b329-4424ac4befc958043infoc&sid=60ma2i209zw0kFypqg2q5wOdq8zg&pid=1hfr11220ve%4080489e53680e0e1&_v=1.8.30&pv_id=58mp2itI9780I4y4tgsX1e8cX0eC&sampling=1&z=mi90yfzi",
+    "resource_type": "fetch",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739497.0309627,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260363https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739260363|1280x720|1|{%22aid%22:%224795301411034624%22,%22pos%22:0,%22type%22:1,%22uid%22:%221542885489%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495193https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739495193|1280x720|1|{%22aid%22:%224795301411034624%22,%22pos%22:0,%22type%22:1,%22uid%22:%221542885489%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryybOI5SEUsBtMcfdB",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryyae5kVaTwAvmEU36",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2426,18 +2381,18 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryybOI5SEUsBtMcfdB--\r\n"
+      "data": "------WebKitFormBoundaryyae5kVaTwAvmEU36--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.2390022,
+    "timestamp": 1763739497.032437,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260363https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739260363|1280x720|1|{%22aid%22:%224797138987914752%22,%22pos%22:1,%22type%22:1,%22uid%22:%222025725904%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495194https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739495194|1280x720|1|{%22aid%22:%224797138987914752%22,%22pos%22:1,%22type%22:1,%22uid%22:%222025725904%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryvAn8VVLqvetx7ukZ",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarysVsWKkwPAyBQmejr",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2447,18 +2402,18 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryvAn8VVLqvetx7ukZ--\r\n"
+      "data": "------WebKitFormBoundarysVsWKkwPAyBQmejr--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.2401967,
+    "timestamp": 1763739497.0338006,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260363https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739260363|1280x720|1|{%22aid%22:%224791898270990848%22,%22pos%22:2,%22type%22:1,%22uid%22:%221246687579%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495194https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739495194|1280x720|1|{%22aid%22:%224791898270990848%22,%22pos%22:2,%22type%22:1,%22uid%22:%221246687579%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryE0fVyGLCUxILP1FK",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryHckhQaWoyjoURUKG",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2468,18 +2423,18 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryE0fVyGLCUxILP1FK--\r\n"
+      "data": "------WebKitFormBoundaryHckhQaWoyjoURUKG--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.2417235,
+    "timestamp": 1763739497.0368376,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260364https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739260364|1280x720|1|{%22aid%22:%224797463505016832%22,%22pos%22:3,%22type%22:1,%22uid%22:%221316411458%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495194https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739495194|1280x720|1|{%22aid%22:%224797463505016832%22,%22pos%22:3,%22type%22:1,%22uid%22:%221316411458%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundary4nbJW2wrq1KqHpN5",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryjh9XeWpAlSCczDNL",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2489,18 +2444,18 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundary4nbJW2wrq1KqHpN5--\r\n"
+      "data": "------WebKitFormBoundaryjh9XeWpAlSCczDNL--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.2431514,
+    "timestamp": 1763739497.0381913,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260364https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739260364|1280x720|1|{%22aid%22:%224795427540702720%22,%22pos%22:4,%22type%22:1,%22uid%22:%221967803676%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495195https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.related_recommend_card_show|1763739495195|1280x720|1|{%22aid%22:%224795427540702720%22,%22pos%22:4,%22type%22:1,%22uid%22:%221967803676%22,%22is_live_icon%22:2,%22tab_name%22:%22all%22}|en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarysdtwFtDIBjHFAMH8",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryr6pHmAvduwKLS84n",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2510,18 +2465,17 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundarysdtwFtDIBjHFAMH8--\r\n"
+      "data": "------WebKitFormBoundaryr6pHmAvduwKLS84n--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.2444475,
+    "timestamp": 1763739497.0397484,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739260364https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.navigation_premium_show|1763739260364|1280x720|1||en-US@posix|{}|1",
-    "resource_type": "ping",
+    "url": "https://arms-retcode-sg.aliyuncs.com/r.png?t=behavior&times=1&page=%5Bindex%5D&tag=&release=0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1&environment=prod&begin=1763739495196&sr=1280x720&vp=1280x720&ct=4g&uid=e001e1fb-356a-4027-b329-4424ac4befc958043infoc&sid=60ma2i209zw0kFypqg2q5wOdq8zg&pid=1hfr11220ve%4080489e53680e0e1&_v=1.8.30&pv_id=58mp2itI9780I4y4tgsX1e8cX0eC&sampling=1&z=mi90yfzj&post_res=",
+    "resource_type": "xhr",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarygYAUxpyc3vAyOtD6",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "text/plain",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2531,11 +2485,32 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundarygYAUxpyc3vAyOtD6--\r\n"
+      "data": "{\"behavior\":[{\"type\":\"navigation\",\"data\":{\"from\":\"https://www.bilibili.tv/en/video/4795275155346944\",\"to\":\"https://www.bilibili.tv/en/video/4795275155346944\"},\"timestamp\":1763739494993,\"page\":\"/en/video/4795275155346944\"}]}"
     }
   },
   {
-    "timestamp": 1763739262.2458322,
+    "timestamp": 1763739497.0411465,
+    "method": "POST",
+    "url": "https://data.bilibili.tv/log/web?0180501763739495195https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.navigation_premium_show|1763739495195|1280x720|1||en-US@posix|{}|1",
+    "resource_type": "ping",
+    "headers": {
+      "accept": "*/*",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarykAARRckTm4gBeRSo",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
+      "origin": "https://www.bilibili.tv",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": {
+      "encoding": "utf-8",
+      "data": "------WebKitFormBoundarykAARRckTm4gBeRSo--\r\n"
+    }
+  },
+  {
+    "timestamp": 1763739497.0429559,
     "method": "POST",
     "url": "https://firebaseinstallations.googleapis.com/v1/projects/bilibili-bstar-web/installations",
     "resource_type": "fetch",
@@ -2553,26 +2528,11 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "{\"fid\":\"fjjLuDw4TdHb8kmrnqRBwR\",\"authVersion\":\"FIS_v2\",\"appId\":\"1:911681628212:web:2350f295a39ccafd760261\",\"sdkVersion\":\"w:0.6.19\"}"
+      "data": "{\"fid\":\"eVCDFaxzzTkjSE6OB4xdM4\",\"authVersion\":\"FIS_v2\",\"appId\":\"1:911681628212:web:2350f295a39ccafd760261\",\"sdkVersion\":\"w:0.6.19\"}"
     }
   },
   {
-    "timestamp": 1763739262.2945294,
-    "method": "GET",
-    "url": "https://p.bstarstatic.com/management/5c19f8414ccec0b89df54a2d0e53d863.png@480w_160h_1e_1c_1f.webp",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.295962,
+    "timestamp": 1763739497.0993316,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/entry-pc-a6c7b4a2.js",
     "resource_type": "script",
@@ -2587,7 +2547,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.2993002,
+    "timestamp": 1763739497.1007702,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/feedback-list-61254406.js",
     "resource_type": "script",
@@ -2602,14 +2562,29 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.3597212,
+    "timestamp": 1763739497.1054702,
+    "method": "GET",
+    "url": "https://p.bstarstatic.com/management/5c19f8414ccec0b89df54a2d0e53d863.png@480w_160h_1e_1c_1f.webp",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739497.1662436,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180621763739262309https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|1763739262309|0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1|1280|720|1280x720|1||333.989|en-US@posix|en|e99ee3a5-2d7e-4df1-9f06-4452b50b20ca|player|codec_check|{%22isSuppertHEVC%22:0,%22isSupportAV1%22:1}|2",
+    "url": "https://data.bilibili.tv/log/web?0180621763739497164https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|1763739497164|0f7a0b4e5f2e8e03646f6fd5e677e37e444bfdb1|1280|720|1280x720|1||333.989|en-US@posix|en|28dedfb8-b2fd-46be-8191-8944049e7790|player|codec_check|{%22isSuppertHEVC%22:0,%22isSupportAV1%22:1}|2",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarydi3bFJkZ6OCck911",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryuCCFW7hARkGGs8AN",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2619,11 +2594,11 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundarydi3bFJkZ6OCck911--\r\n"
+      "data": "------WebKitFormBoundaryuCCFW7hARkGGs8AN--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.3911548,
+    "timestamp": 1763739497.2134602,
     "method": "GET",
     "url": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-RFQM4DCRV2",
     "resource_type": "script",
@@ -2638,7 +2613,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.3922195,
+    "timestamp": 1763739497.2152848,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/feedback-869b42fc.svg",
     "resource_type": "image",
@@ -2653,7 +2628,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.394135,
+    "timestamp": 1763739497.216814,
     "method": "GET",
     "url": "https://p.bstarstatic.com/fe-static/bstar-web-new/client/assets/icon_report-32bc9553.svg",
     "resource_type": "image",
@@ -2668,9 +2643,9 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.3981507,
+    "timestamp": 1763739497.2257829,
     "method": "GET",
-    "url": "https://connect.facebook.net/en_US/sdk.js?hash=4637b7a7a8d3a9d46698174079fc14a1",
+    "url": "https://connect.facebook.net/en_US/sdk.js?hash=8df619b9224122a1b0f94b1572a77487",
     "resource_type": "script",
     "headers": {
       "accept": "*/*",
@@ -2684,7 +2659,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.3997233,
+    "timestamp": 1763739497.2277877,
     "method": "GET",
     "url": "https://accounts.google.com/gsi/style",
     "resource_type": "stylesheet",
@@ -2699,14 +2674,14 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.401742,
+    "timestamp": 1763739497.2298393,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180621763739262387https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|1763739262387||1280|720|1280x720|2||333.989|en-US@posix|en|489d3f29-3b40-4cc4-8cbd-a83cfbbf805f|login|login_fail|{%22channel%22:1,%22method%22:2,%22error%22:%22one-tap%20prompt:%20undefined%22,%22version%22:%222.2.7%22}|2",
+    "url": "https://data.bilibili.tv/log/web?0180621763739497226https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|1763739497226||1280|720|1280x720|2||333.989|en-US@posix|en|09635c8d-ecae-403f-bc10-978f3dbd9a9a|login|login_fail|{%22channel%22:1,%22method%22:2,%22error%22:%22one-tap%20prompt:%20undefined%22,%22version%22:%222.2.7%22}|2",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryuT0BdGAlaId8aFcC",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundarynBASBMDHt72Ja1Rf",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2716,18 +2691,18 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryuT0BdGAlaId8aFcC--\r\n"
+      "data": "------WebKitFormBoundarynBASBMDHt72Ja1Rf--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.4051347,
+    "timestamp": 1763739497.237861,
     "method": "POST",
-    "url": "https://data.bilibili.tv/log/web?0180501763739262394https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.guide_login_popup_show|1763739262394|1280x720|1||en-US@posix|{}|1",
+    "url": "https://data.bilibili.tv/log/web?0180501763739497236https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944|333.989.selfDef.guide_login_popup_show|1763739497236|1280x720|1||en-US@posix|{}|1",
     "resource_type": "ping",
     "headers": {
       "accept": "*/*",
-      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryxNclEPuY0gjnofk6",
-      "cookie": "buvid3=8f77e1ff-e415-41f6-a1b8-ae0e447a594b39706infoc; bstar-web-lang=en",
+      "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryJr7n7AoexjHQKYTC",
+      "cookie": "buvid3=e001e1fb-356a-4027-b329-4424ac4befc958043infoc; bstar-web-lang=en",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
@@ -2737,13 +2712,13 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "------WebKitFormBoundaryxNclEPuY0gjnofk6--\r\n"
+      "data": "------WebKitFormBoundaryJr7n7AoexjHQKYTC--\r\n"
     }
   },
   {
-    "timestamp": 1763739262.504878,
+    "timestamp": 1763739497.3442512,
     "method": "POST",
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-RFQM4DCRV2&gtm=45je5bi1v9229396269za200zd9229396269&_p=1763739262357&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fjjLuDw4TdHb8kmrnqRBwR&cid=1841397382.1763739262&ul=en-us%40posix&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~115583767~115616985~115938465~115938468~116184927~116184929~116217636~116217638&sid=1763739262&sct=1&seg=0&dl=https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944&dt=Barbad%20full%20HD%20movie%20%E0%A6%AC%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A6%20%E0%A6%AB%E0%A7%81%E0%A6%B2%20%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%20-%20BiliBili&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.origin=firebase&tfd=3943",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-RFQM4DCRV2&gtm=45je5bj0h2v9229396269za200zd9229396269&_p=1763739497194&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=eVCDFaxzzTkjSE6OB4xdM4&cid=1741079456.1763739497&ul=en-us%40posix&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~115583767~115938466~115938468~116184927~116184929~116217636~116217638~116514482&sid=1763739497&sct=1&seg=0&dl=https%3A%2F%2Fwww.bilibili.tv%2Fen%2Fvideo%2F4795275155346944&dt=Barbad%20full%20HD%20movie%20%E0%A6%AC%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%A6%20%E0%A6%AB%E0%A7%81%E0%A6%B2%20%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%20-%20BiliBili&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.origin=firebase&tfd=3973",
     "resource_type": "fetch",
     "headers": {
       "accept": "*/*",
@@ -2757,13 +2732,13 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.5089417,
+    "timestamp": 1763739497.3490293,
     "method": "POST",
     "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/bilibili-bstar-web/namespaces/fireperf:fetch?key=AIzaSyCcjJwBY2kXh56ue4KrDET5iDlpdyBYEMg",
     "resource_type": "fetch",
     "headers": {
       "accept": "*/*",
-      "authorization": "FIREBASE_INSTALLATIONS_AUTH eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6OTExNjgxNjI4MjEyOndlYjoyMzUwZjI5NWEzOWNjYWZkNzYwMjYxIiwiZXhwIjoxNzY0MzQ0MDYyLCJmaWQiOiJmampMdUR3NFRkSGI4a21ybnFSQndSIiwicHJvamVjdE51bWJlciI6OTExNjgxNjI4MjEyfQ.AB2LPV8wRQIhAMQ-ytXyyQ9JnBgtNjZfNTADPCIpfLHJZ22MWEas_za5AiBA1RYqXJcGE9nukEYTD04A1PNKFX2yb8DrJiJG_DfhSQ",
+      "authorization": "FIREBASE_INSTALLATIONS_AUTH eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6OTExNjgxNjI4MjEyOndlYjoyMzUwZjI5NWEzOWNjYWZkNzYwMjYxIiwiZXhwIjoxNzY0MzQ0Mjk3LCJmaWQiOiJlVkNERmF4enpUa2pTRTZPQjR4ZE00IiwicHJvamVjdE51bWJlciI6OTExNjgxNjI4MjEyfQ.AB2LPV8wRAIgdDfjvoN8g7ee9peFj768z_fASNC8ODTdu3Qb_kaTRX0CID_kbIGim6cBSswkfV2vXbanpPULKRUmVGEuZI7Wq74A",
       "content-type": "text/plain;charset=UTF-8",
       "origin": "https://www.bilibili.tv",
       "referer": "https://www.bilibili.tv/en/video/4795275155346944",
@@ -2774,11 +2749,26 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "{\"app_instance_id\":\"fjjLuDw4TdHb8kmrnqRBwR\",\"app_instance_id_token\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6OTExNjgxNjI4MjEyOndlYjoyMzUwZjI5NWEzOWNjYWZkNzYwMjYxIiwiZXhwIjoxNzY0MzQ0MDYyLCJmaWQiOiJmampMdUR3NFRkSGI4a21ybnFSQndSIiwicHJvamVjdE51bWJlciI6OTExNjgxNjI4MjEyfQ.AB2LPV8wRQIhAMQ-ytXyyQ9JnBgtNjZfNTADPCIpfLHJZ22MWEas_za5AiBA1RYqXJcGE9nukEYTD04A1PNKFX2yb8DrJiJG_DfhSQ\",\"app_id\":\"1:911681628212:web:2350f295a39ccafd760261\",\"app_version\":\"0.7.9\",\"sdk_version\":\"0.0.1\"}"
+      "data": "{\"app_instance_id\":\"eVCDFaxzzTkjSE6OB4xdM4\",\"app_instance_id_token\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6OTExNjgxNjI4MjEyOndlYjoyMzUwZjI5NWEzOWNjYWZkNzYwMjYxIiwiZXhwIjoxNzY0MzQ0Mjk3LCJmaWQiOiJlVkNERmF4enpUa2pTRTZPQjR4ZE00IiwicHJvamVjdE51bWJlciI6OTExNjgxNjI4MjEyfQ.AB2LPV8wRAIgdDfjvoN8g7ee9peFj768z_fASNC8ODTdu3Qb_kaTRX0CID_kbIGim6cBSswkfV2vXbanpPULKRUmVGEuZI7Wq74A\",\"app_id\":\"1:911681628212:web:2350f295a39ccafd760261\",\"app_version\":\"0.7.9\",\"sdk_version\":\"0.0.1\"}"
     }
   },
   {
-    "timestamp": 1763739262.521379,
+    "timestamp": 1763739497.529685,
+    "method": "GET",
+    "url": "https://p.bstarstatic.com/fe-static/20221019/icon_loading.gif",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763739497.5379596,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/videoshot/n250503ad2lu38oi6ddwpotser1gd86l.bin",
     "resource_type": "xhr",
@@ -2794,22 +2784,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.759296,
-    "method": "GET",
-    "url": "https://p.bstarstatic.com/fe-static/20221019/icon_loading.gif",
-    "resource_type": "image",
-    "headers": {
-      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-      "referer": "https://www.bilibili.tv/en/video/4795275155346944",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\""
-    },
-    "post_data": null
-  },
-  {
-    "timestamp": 1763739262.7643785,
+    "timestamp": 1763739497.543814,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/264768f3bd9d90df461f075b85c0c9b945a8816a.png@80w_80h_1e_1c_1f.webp",
     "resource_type": "image",
@@ -2824,7 +2799,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.7670517,
+    "timestamp": 1763739497.5458372,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/noface_v1.png@80w_80h_1e_1c_1f.webp",
     "resource_type": "image",
@@ -2839,7 +2814,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739262.7690887,
+    "timestamp": 1763739497.5472617,
     "method": "GET",
     "url": "https://pic.bstarstatic.com/face/c5b9bc8c17b9d9d840114a9cde6c9dc8cc478331.jpg@80w_80h_1e_1c_1f.webp",
     "resource_type": "image",
@@ -2854,7 +2829,7 @@
     "post_data": null
   },
   {
-    "timestamp": 1763739265.8699737,
+    "timestamp": 1763739500.7015233,
     "method": "POST",
     "url": "https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw",
     "resource_type": "ping",
@@ -2870,7 +2845,7 @@
     },
     "post_data": {
       "encoding": "utf-8",
-      "data": "{\"request_time_ms\":\"1763739265866\",\"client_info\":{\"client_type\":1,\"js_client_info\":{}},\"log_source\":462,\"log_event\":[{\"source_extension_json_proto3\":\"{\\\"application_info\\\":{\\\"google_app_id\\\":\\\"1:911681628212:web:2350f295a39ccafd760261\\\",\\\"app_instance_id\\\":\\\"fjjLuDw4TdHb8kmrnqRBwR\\\",\\\"web_app_info\\\":{\\\"sdk_version\\\":\\\"0.7.9\\\",\\\"page_url\\\":\\\"https://www.bilibili.tv/en/video/4795275155346944\\\",\\\"service_worker_status\\\":3,\\\"visibility_state\\\":1,\\\"effective_connection_type\\\":4},\\\"application_process_state\\\":0},\\\"trace_metric\\\":{\\\"name\\\":\\\"web_vital_fcp\\\",\\\"is_auto\\\":false,\\\"client_start_time_us\\\":1763739260355500,\\\"duration_us\\\":399,\\\"counters\\\":{\\\"FCP\\\":1264},\\\"custom_attributes\\\":{\\\"pageName\\\":\\\"ugc\\\",\\\"pageDetail\\\":\\\"en-ugc\\\"}}}\",\"event_time_ms\":\"1763739262556\"},{\"source_extension_json_proto3\":\"{\\\"application_info\\\":{\\\"google_app_id\\\":\\\"1:911681628212:web:2350f295a39ccafd760261\\\",\\\"app_instance_id\\\":\\\"fjjLuDw4TdHb8kmrnqRBwR\\\",\\\"web_app_info\\\":{\\\"sdk_version\\\":\\\"0.7.9\\\",\\\"page_url\\\":\\\"https://www.bilibili.tv/en/video/4795275155346944\\\",\\\"service_worker_status\\\":3,\\\"visibility_state\\\":1,\\\"effective_connection_type\\\":4},\\\"application_process_state\\\":0},\\\"trace_metric\\\":{\\\"name\\\":\\\"web_vital_ttfb\\\",\\\"is_auto\\\":false,\\\"client_start_time_us\\\":1763739260357100,\\\"duration_us\\\":0,\\\"counters\\\":{\\\"TTFB\\\":1025},\\\"custom_attributes\\\":{\\\"pageName\\\":\\\"ugc\\\",\\\"pageDetail\\\":\\\"en-ugc\\\"}}}\",\"event_time_ms\":\"1763739262556\"}]}"
+      "data": "{\"request_time_ms\":\"1763739500699\",\"client_info\":{\"client_type\":1,\"js_client_info\":{}},\"log_source\":462,\"log_event\":[{\"source_extension_json_proto3\":\"{\\\"application_info\\\":{\\\"google_app_id\\\":\\\"1:911681628212:web:2350f295a39ccafd760261\\\",\\\"app_instance_id\\\":\\\"eVCDFaxzzTkjSE6OB4xdM4\\\",\\\"web_app_info\\\":{\\\"sdk_version\\\":\\\"0.7.9\\\",\\\"page_url\\\":\\\"https://www.bilibili.tv/en/video/4795275155346944\\\",\\\"service_worker_status\\\":3,\\\"visibility_state\\\":1,\\\"effective_connection_type\\\":4},\\\"application_process_state\\\":0},\\\"trace_metric\\\":{\\\"name\\\":\\\"web_vital_fcp\\\",\\\"is_auto\\\":false,\\\"client_start_time_us\\\":1763739495185500,\\\"duration_us\\\":199,\\\"counters\\\":{\\\"FCP\\\":1304},\\\"custom_attributes\\\":{\\\"pageName\\\":\\\"ugc\\\",\\\"pageDetail\\\":\\\"en-ugc\\\"}}}\",\"event_time_ms\":\"1763739497422\"},{\"source_extension_json_proto3\":\"{\\\"application_info\\\":{\\\"google_app_id\\\":\\\"1:911681628212:web:2350f295a39ccafd760261\\\",\\\"app_instance_id\\\":\\\"eVCDFaxzzTkjSE6OB4xdM4\\\",\\\"web_app_info\\\":{\\\"sdk_version\\\":\\\"0.7.9\\\",\\\"page_url\\\":\\\"https://www.bilibili.tv/en/video/4795275155346944\\\",\\\"service_worker_status\\\":3,\\\"visibility_state\\\":1,\\\"effective_connection_type\\\":4},\\\"application_process_state\\\":0},\\\"trace_metric\\\":{\\\"name\\\":\\\"web_vital_ttfb\\\",\\\"is_auto\\\":false,\\\"client_start_time_us\\\":1763739495186599,\\\"duration_us\\\":0,\\\"counters\\\":{\\\"TTFB\\\":997},\\\"custom_attributes\\\":{\\\"pageName\\\":\\\"ugc\\\",\\\"pageDetail\\\":\\\"en-ugc\\\"}}}\",\"event_time_ms\":\"1763739497422\"}]}"
     }
   }
 ]
