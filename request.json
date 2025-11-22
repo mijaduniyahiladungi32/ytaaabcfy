@@ -1,1 +1,2067 @@
-
+[
+  {
+    "timestamp": 1763801490.3811998,
+    "method": "GET",
+    "url": "https://beesports.io/live-tv",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5113058,
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css?family=Poppins",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5132363,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/app-fed75ee9.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5140834,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/app-78ab4257.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "origin": "https://beesports.io",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5151014,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/pinia-458b9c09.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "origin": "https://beesports.io",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5463586,
+    "method": "GET",
+    "url": "https://metric.starcdnup.com/script.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.5947692,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-11230413447",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.595858,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T6ZCTLS",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.6997118,
+    "method": "GET",
+    "url": "https://beesports.io/libs/devtools/app-v1.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.7224615,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/Page-ffeb18f8.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "origin": "https://beesports.io",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.724267,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/Site-9160475c.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "origin": "https://beesports.io",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.7255285,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/format-90beb56c.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "origin": "https://beesports.io",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801491.7269855,
+    "method": "GET",
+    "url": "https://beesports.io/build/assets/Site-f59584d9.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "accept": "text/css,*/*;q=0.1",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7331226,
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?frm=0&tid=AW-11230413447&en=page_view&dl=https%3A%2F%2Fbeesports.io%2Flive-tv&scrsrc=www.googletagmanager.com&rnd=817308254.1763801492&auid=845482037.1763801492&navt=n&npa=0&gtm=45be5bi1za200xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527906~104528501~104573694~104684208~104684211~115583767~115938466~115938468~116184927~116184929~116217636~116217638&tft=1763801491765&tfd=1387&apve=1&apvf=f",
+    "resource_type": "fetch",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://beesports.io",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7339497,
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11230413447/?random=1763801491758&cv=11&fst=1763801491758&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be5bi1za200xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527906~104528501~104573694~104684208~104684211~115583767~115938466~115938468~116184927~116184929~116217636~116217638&u_w=1280&u_h=720&url=https%3A%2F%2Fbeesports.io%2Flive-tv&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=845482037.1763801492&uaa=x86&uab=64&uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.734705,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-16531607328&cx=c&gtm=4e5bi1",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.738972,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/static/service_worker/5ba0/sw_iframe.html?origin=https%3A%2F%2Fbeesports.io",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.741307,
+    "method": "GET",
+    "url": "https://beesports.io/player",
+    "resource_type": "document",
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D; _gcl_au=1.1.845482037.1763801492",
+      "referer": "https://beesports.io/live-tv",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7423177,
+    "method": "POST",
+    "url": "https://beesports.io/authorize-channel",
+    "resource_type": "xhr",
+    "headers": {
+      "accept": "application/json, text/plain, */*",
+      "content-type": "application/json",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D; _gcl_au=1.1.845482037.1763801492",
+      "origin": "https://beesports.io",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "x-requested-with": "XMLHttpRequest",
+      "x-xsrf-token": "eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0=",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": {
+      "encoding": "utf-8",
+      "data": "{\"channel\":\"https://pri8ahnsass.twinspeed.space/TNT-Sports-1/index.m3u8\"}"
+    }
+  },
+  {
+    "timestamp": 1763801493.7434788,
+    "method": "GET",
+    "url": "https://beesports.io/themes/yellow-bee/logo.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D; _gcl_au=1.1.845482037.1763801492",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7445242,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/15.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7456412,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/2.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7465644,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/3.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.747412,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/39.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7484102,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/140.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7494524,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/78.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7505045,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/135.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7517457,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/61.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.752737,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/307.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.753694,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/253.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7547858,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/leagues/848.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7557826,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/33.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7566798,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/50.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7575095,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/40.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7583916,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/49.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.759205,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/42.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.759983,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/47.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.760855,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/541.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7616951,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/529.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.762484,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/530.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7638917,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/157.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7647107,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/165.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7655487,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/496.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7663724,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/505.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7672923,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/489.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7681093,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/492.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7689183,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/85.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7698715,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/2939.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.770677,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs//football/teams/9568.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7714758,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7726092,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7736425,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7744718,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7752998,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7761784,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7769935,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7777987,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7786803,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7795112,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7803369,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.781191,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7819817,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7827816,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7836468,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/kfl5-li-lg-c2-z-a-wz-as136l9v9u-jl-i-r-xa-s-ofco-y-k-h-b8.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7844532,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/qKD6k49tpqHg3gkThoSR7J8nmXaOYeD0QYuM5J37.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.785282,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7860944,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7869642,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7879,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7889028,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.789961,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.790942,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7919414,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.793165,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.794178,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7951703,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7962255,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7972434,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7982357,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.7992277,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8007295,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8017209,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8027132,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8037784,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8047812,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8057618,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8068252,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8078146,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.808797,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.809871,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8110237,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8120377,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.813086,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.814118,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8151076,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8161068,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8171864,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8181944,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8191826,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8202362,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8212392,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8222277,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8233008,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.824277,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8252482,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8263056,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8272893,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8282776,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8295176,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8308485,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8317678,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8326125,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8334918,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8343086,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.835115,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/microsoft-teams-image_(13).png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.835985,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.836823,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8376195,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8389115,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.839774,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8405807,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8414574,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8423028,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.843129,
+    "method": "GET",
+    "url": "https://i0.wp.com/static.techor.sbs/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8439064,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8447735,
+    "method": "GET",
+    "url": "https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8455815,
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "resource_type": "font",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://beesports.io",
+      "referer": "https://fonts.googleapis.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8466077,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-17465965296&cx=c&gtm=4e5bi1",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8473792,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-17466025245&cx=c&gtm=4e5bi1",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8482044,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-2P6CFK6BJY&cx=c&gtm=4e5bi1",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8489854,
+    "method": "GET",
+    "url": "https://www.google-analytics.com/analytics.js",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.849836,
+    "method": "GET",
+    "url": "https://embed.tawk.to/63ff87fe31ebfa0fe7f017ef/1gqf2mesr",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "origin": "https://beesports.io",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.850637,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-16531607328",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8514688,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-11214459207",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8523884,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-11209342457",
+    "resource_type": "script",
+    "headers": {
+      "accept": "*/*",
+      "referer": "https://beesports.io/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "timestamp": 1763801493.8532176,
+    "method": "GET",
+    "url": "https://beesports.io/images/telegram.png",
+    "resource_type": "image",
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "cookie": "first_visited_url=eyJpdiI6IjVTempiblNWRkJwODhRQ1FTNnJIMHc9PSIsInZhbHVlIjoickVzNndYdExjdE1WeXdZSDl3WWVOWGkwMEE4Sk0yQklXZWN0ZGJNSlNwOForZkMrOS9iaktoNWNRSzFYczliNGV5KzdNQzJQV2RpaUFxeXB1akM4UGc9PSIsIm1hYyI6ImE4NDYwODlhNjBiNTZjZDEwMzk4YTQ2YjBiNWE1NDdiOGY2YWIwOTExMjkyNjFmZTEzNGRhNGIzMzg1MDRjZTAiLCJ0YWciOiIifQ%3D%3D; XSRF-TOKEN=eyJpdiI6IlA1MmtkZlJtVXhReTByYzV3R01HTUE9PSIsInZhbHVlIjoibTNvUHRXV0hSQnJBT1hzR2FDZXVhVnRSWHpwcGRoT1N1ZUtCdVRjN1FwejlZMjJrK0ZsT2NtR3lUSUtkM0RtZkdBOVJCRjM3dmkwOEczTUNJTUVMblJrMGIwaTEySldSbmZNWE5KSHJpaE8vTW43ODZ1QnVDQ29JNjhobmVLZmgiLCJtYWMiOiIwN2MyYzZkZDdlZDdlZjIxM2FkNmZmMjkyMGY1OTllZWI1MTNkYTA5ZmQyMjBhYmFiMzJlYmVjM2JiMjlhZDcyIiwidGFnIjoiIn0%3D; beesport_session=eyJpdiI6ImRCd25XUDBFeUMxM2tMZ3ZmSnY1bUE9PSIsInZhbHVlIjoiNWdFWjlnVE5sMmgzdHVkMXhBZ2g1RFg2S2JYbEViaThiR2lOa09URmQ1TVU5VEo5QVRmSy9pSFpwbnh5RllUVWVVVy9MdDZTZy92cVV2c25pSldjN2VtS3QwSFZZMElkc3BpdEdDcGlmYithU2ZnZHppbHB4Z3BIb0lUNDlVQ3giLCJtYWMiOiJhZGQ4YjM1ZjQ2NTNlYjcwN2VlN2ZlNGE4YjBhZTdlZjJjN2Y3NDMyZTEwZGYyZmZhOTZmZjhjZTVmNzE1Y2U0IiwidGFnIjoiIn0%3D; _gcl_au=1.1.845482037.1763801492",
+      "referer": "https://beesports.io/live-tv",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  }
+]
