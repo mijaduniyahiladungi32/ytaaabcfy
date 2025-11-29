@@ -1,0 +1,43 @@
+name: Update README with last update time
+
+on:
+  schedule:
+    - cron: '0 0 */20 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Get current datetime
+      id: datetime
+      run: |
+        echo "CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_ENV
+
+    - name: Update README.md
+      run: |
+        README="README.md"
+        if [ ! -f "$README" ]; then
+          echo "# Project" > "$README"
+        fi
+
+        if grep -q "Last updated:" "$README"; then
+          sed -i "s/^Last updated:.*/Last updated: $CURRENT_TIME/" "$README"
+        else
+          echo -e "\nLast updated: $CURRENT_TIME" >> "$README"
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update README last updated time [skip ci]" || echo "No changes to commit"
+        git push
