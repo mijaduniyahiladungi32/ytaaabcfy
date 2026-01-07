@@ -1,1 +1,82 @@
-
+[
+  {
+    "timestamp": 1767818351.3834465,
+    "url": "https://re-embet.pages.dev/?url=https://dlhd.dad/plus/stream-346.php",
+    "status": 200,
+    "status_text": "",
+    "headers": {
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "public, max-age=0, must-revalidate",
+      "cf-ray": "9ba643573c4814ce-ORD",
+      "content-encoding": "br",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 07 Jan 2026 20:39:11 GMT",
+      "etag": "W/\"9e6226db91f606df7fbb968a540d06b6\"",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gBJtWy3%2FyBZxCKE72EmkIphsKpd27iGIuJ2%2Bix10PPdiWU0WwCQq4po2Nfl86S540kIEGjDQybMFddr1RquKB%2FXaeadO1sPwhVibzQOD8lk12w%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-content-type-options": "nosniff"
+    },
+    "request": {
+      "method": "GET",
+      "url": "https://re-embet.pages.dev/?url=https://dlhd.dad/plus/stream-346.php"
+    },
+    "body_encoding": "base64",
+    "body": "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLjAiPgo8dGl0bGU+RHluYW1pYyBpRnJhbWUgTG9hZGVyPC90aXRsZT4KPHN0eWxlPgogIGJvZHkgewogICAgbWFyZ2luOiAwOwogICAgcGFkZGluZzogMDsKICAgIGJhY2tncm91bmQ6ICMwMDA7CiAgICBkaXNwbGF5OiBmbGV4OwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgaGVpZ2h0OiAxMDB2aDsKICB9CiAgaWZyYW1lIHsKICAgIHdpZHRoOiAxMDAlOwogICAgaGVpZ2h0OiAxMDB2aDsKICAgIGJvcmRlcjogbm9uZTsKICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7CiAgICBib3gtc2hhZG93OiAwIDAgMTVweCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMik7CiAgfQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgogIDxpZnJhbWUgaWQ9Im15aUZyYW1lIiBuYW1lPSJteWlGcmFtZSIgc2Nyb2xsaW5nPSJubyIgbWFyZ2lud2lkdGg9IjAiIG1hcmdpbmhlaWdodD0iMCI+PC9pZnJhbWU+CgogIDxzY3JpcHQ+CiAgICAvLyBHZXQgVVJMIHBhcmFtZXRlcgogICAgY29uc3QgcGFyYW1zID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKTsKICAgIGNvbnN0IHVybCA9IHBhcmFtcy5nZXQoJ3VybCcpOwoKICAgIAogICAgaWYgKHVybCkgewogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbXlpRnJhbWUnKS5zcmMgPSB1cmw7CiAgICB9IGVsc2UgewogICAgICBkb2N1bWVudC5ib2R5LmlubmVySFRNTCA9ICI8aDIgc3R5bGU9J2NvbG9yOndoaXRlO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7Jz5QbGVhc2UgcHJvdmlkZSBhIHZhbGlkID91cmw9IHBhcmFtZXRlcjwvaDI+IjsKICAgIH0KICA8L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cgo="
+  },
+  {
+    "timestamp": 1767818363.4791968,
+    "url": "https://dlhd.dad/plus/stream-346.php",
+    "status": 301,
+    "status_text": "",
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-ray": "9ba64365897bee11-ORD",
+      "content-length": "0",
+      "date": "Wed, 07 Jan 2026 20:39:13 GMT",
+      "location": "https://daddyhd.com/plus/stream-346.php",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Xxn9zDokI%2FkpkQsSJBawDy66j%2BPwHUUnpMBI2i0zfhzqr4UG49diUo4Nu%2FKhgJwPtiVbCkT2dVaBANzemqEg9tKGB45Fbjjk\"}]}",
+      "server": "cloudflare",
+      "server-timing": "cfEdge;dur=1,cfOrigin;dur=0",
+      "vary": "accept-encoding"
+    },
+    "request": {
+      "method": "GET",
+      "url": "https://dlhd.dad/plus/stream-346.php"
+    },
+    "body_encoding": null,
+    "body": null,
+    "body_error": "Response.body: Response body is unavailable for redirect responses"
+  },
+  {
+    "timestamp": 1767818363.4804695,
+    "url": "https://daddyhd.com/plus/stream-346.php",
+    "status": 200,
+    "status_text": "",
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "9ba6436629a31497-ORD",
+      "content-encoding": "zstd",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Wed, 07 Jan 2026 20:39:13 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=o2%2B4dgeR9g8uQ10Hwvy0Jj0V86ou3vp%2FPgblkHL2b6gT%2FZBNXRjq%2Ff1sh5h8oMF9COPu3YFibir3DCr1DTVCIGESHp6WIchgZQT8\"}]}",
+      "server": "cloudflare",
+      "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=9,cfOrigin;dur=280",
+      "speculation-rules": "\"/cdn-cgi/speculation\"",
+      "vary": "Accept-Encoding"
+    },
+    "request": {
+      "method": "GET",
+      "url": "https://daddyhd.com/plus/stream-346.php"
+    },
+    "body_encoding": null,
+    "body": null,
+    "body_error": "Response.body: Target page, context or browser has been closed"
+  }
+]
