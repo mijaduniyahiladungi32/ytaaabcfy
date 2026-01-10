@@ -1,35 +1,30 @@
 from playwright.sync_api import sync_playwright
 import time
-import requests
+from urllib.parse import urlparse, parse_qs, unquote
 
 URL = "https://beesports.io/live-tv"
 
-UA = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/120.0.0.0 Safari/537.36"
-)
+BLOCK_KEYWORDS = [
+    "player",
+    "embed",
+    "snapx",
+    "/v3?",
+    "?link="
+]
 
-def is_valid_m3u8(url, referer):
-    try:
-        headers = {
-            "User-Agent": UA,
-            "Referer": referer,
-            "Origin": referer.rstrip("/"),
-            "Accept": "*/*"
-        }
-
-        r = requests.get(url, headers=headers, timeout=10)
-        if r.status_code == 200 and "#EXTM3U" in r.text[:100]:
-            return True
-    except:
-        pass
-    return False
+def is_pure_m3u8(url: str) -> bool:
+    if not url.startswith("http"):
+        return False
+    if ".m3u8" not in url:
+        return False
+    for k in BLOCK_KEYWORDS:
+        if k in url.lower():
+            return False
+    return True
 
 
-def extract_real_streams():
+def extract_real_m3u8():
     found = set()
-    verified = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -37,44 +32,51 @@ def extract_real_streams():
             args=["--disable-blink-features=AutomationControlled"]
         )
 
-        context = browser.new_context(user_agent=UA)
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            )
+        )
+
         page = context.new_page()
 
-        def on_request(req):
-            url = req.url
-            if ".m3u8" in url:
+        def on_request(request):
+            url = request.url
+
+            # ✅ case 1: direct pure m3u8
+            if is_pure_m3u8(url):
                 found.add(url)
 
-        def on_response(res):
-            if ".m3u8" in res.url:
-                found.add(res.url)
+            # ✅ case 2: m3u8 hidden inside ?link=
+            if "link=" in url and ".m3u8" in url:
+                parsed = parse_qs(urlparse(url).query)
+                link = parsed.get("link")
+                if link:
+                    real = unquote(link[0])
+                    if is_pure_m3u8(real):
+                        found.add(real)
 
         page.on("request", on_request)
-        page.on("response", on_response)
 
         print("[*] Opening page...")
-        page.goto(URL, wait_until="networkidle")
+        page.goto(URL, wait_until="domcontentloaded")
 
-        print("[*] Waiting 20 seconds (player + retries)...")
+        print("[*] Waiting 20 seconds...")
         time.sleep(20)
 
         browser.close()
 
-    print(f"[*] Detected {len(found)} candidate m3u8 URLs")
-
-    for m3u8 in found:
-        if is_valid_m3u8(m3u8, URL):
-            verified.append(m3u8)
-
-    return verified
+    return found
 
 
 if __name__ == "__main__":
-    streams = extract_real_streams()
+    links = extract_real_m3u8()
 
-    if not streams:
-        print("❌ No playable m3u8 found")
+    if not links:
+        print("❌ No PURE m3u8 found")
     else:
-        print("\n🎯 VERIFIED PLAYABLE STREAMS:\n")
-        for i, s in enumerate(streams, 1):
-            print(f"{i}. {s}")
+        print("\n🎯 PURE STREAM m3u8 ONLY:\n")
+        for i, link in enumerate(links, 1):
+            print(f"{i}. {link}")
